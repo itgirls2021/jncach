@@ -1,8 +1,0 @@
-body {
-    color: mediumvioletred;
-    background-color: mistyrose;
-}
-h2 {color: dodgerblue; font-size: 35px;}
-h3 {color: dodgerblue; font-size: 35px;}
-h4 {color:dodgerblue; font-size: 35px;}
-h5 {color: dodgerblue; font-size: 35px;}
