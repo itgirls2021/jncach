@@ -1,5 +1,5 @@
 body {
-    color: mediumvioletred;
+    color: deepskyblue;
     background-color: mistyrose;
 }
 img {float:left}
