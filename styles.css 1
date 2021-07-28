@@ -2,4 +2,3 @@ body {
     color: deepskyblue;
     background-color: mistyrose;
 }
-img {float: none}
