@@ -1,5 +1,5 @@
 body {
-    color: darkorange; 
+    color: black; 
     background-color: ivory;
     font-family: 'Andada Pro', serif;
     font-size: 15px;
@@ -9,3 +9,7 @@ h2 {color: orange; font-size: 35px;}
 h3 {color: orange; font-size: 35;}
 h4 {color: orange; font-size: 35px;}
 h5 {color: orange; font-size: 35px;}
+nav{background-color: deeppink;}
+nav a {color: white;}
+nav {color:snow;}
+nav a:hover {background-color:pink;}
