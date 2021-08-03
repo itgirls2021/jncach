@@ -6,7 +6,18 @@ body {
 }
 h1 {font-size: 35px;}
 h2 {font-size: 35px;}
-nav {padding: 10px; margin-bottom: 30px; background-color: paleturquoise;}
+nav {
+    padding: 10px; 
+    margin-bottom: 30px; 
+    background-color: paleturquoise;
+}
 nav a {color:black;}
 nav {color: snow;}
 nav a:hover {background-color:lightcyan;}
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background: white;
+    border-radius: 20px;
+}
